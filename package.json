@@ -1,7 +1,6 @@
 
 {
-  "name": "chiptuning-vercel",
-  "version": "1.0.0",
+  "name": "chiptuning-multilang",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +9,7 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "next-i18next": "^13.1.7"
   }
 }

@@ -1,1 +1,1 @@
-# ChipTuning Market - Vercel Ready Project
+# ChipTuning Market with Multilingual Support
